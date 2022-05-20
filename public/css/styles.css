@@ -1,0 +1,6 @@
+.pagination ul li button.page-link {
+  color: black;
+}
+.pagination ul li button.page-link.active {
+  background-color: #d8d8d8;
+}
